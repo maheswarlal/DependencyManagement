@@ -1,5 +1,7 @@
 github.com/maheswarlal/dog v0.0.0-20240505075646-0de1995ef897 h1:lLLs8Oe2uQySmc+233SSbF0k7QnQh3Hae+M6XZJaX7s=
 github.com/maheswarlal/dog v0.0.0-20240505075646-0de1995ef897/go.mod h1:cFzK/Lh9LcHWCg8AMTg2VyX76YArfXSmhgdiV2v7iX0=
+github.com/maheswarlal/puppy v1.3.0 h1:lVQMke5SEe3XjPcTPJdFvs2ZIb6gJSaetg+yCoseO3o=
+github.com/maheswarlal/puppy v1.3.0/go.mod h1:rFiea380H9UqFDJJhms4CnQzQYZBKM4WWT2Nc7WW5pA=
 github.com/maheswarlal/puppy v1.5.0 h1:NEy3gwltq0rg3q0H/XUOniGTrmPx77I20p7y3Pg/yLM=
 github.com/maheswarlal/puppy v1.5.0/go.mod h1:rFiea380H9UqFDJJhms4CnQzQYZBKM4WWT2Nc7WW5pA=
 github.com/maheswarlal/puppy v1.6.0 h1:hKfFHgpeTzvBoTMDo3h5jLpMbSnBVCOuOyCHpyVtE3M=
