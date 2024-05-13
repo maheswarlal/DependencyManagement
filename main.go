@@ -11,6 +11,7 @@ func main() {
 	puppy.Taglal4()
 	puppy.Taglal5()
 	puppy.Taglal8()
+	puppy.Taglal8()
 	puppy.Fromlal1()
 	puppy.Fromlal2()
 	S1 := puppy.Bark()
